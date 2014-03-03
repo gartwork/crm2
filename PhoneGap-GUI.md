@@ -1,10 +1,10 @@
 # PhoneGap GUI Documentation
 
-Creating a project
-Removing a project
-Changing server port settings
-Viewing server log
-Active & Inactive projects
+Creating a project<br>
+Removing a project<br>
+Changing server port settings<br>
+Viewing server log<br>
+Active & Inactive projects<br>
 
 
 
