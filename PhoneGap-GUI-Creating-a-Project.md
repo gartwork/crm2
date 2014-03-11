@@ -17,3 +17,7 @@ You will be presented with the Add New Project / Open Existing Project dialog, t
 ## Using the Drag & Drop Method
 
 ## Using the File -> New Project Method
+
+You can also use the New Project menu item found under the File menu to create a new project.
+
+![File Menu New Project](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/create/docs-file-new.png)
