@@ -18,7 +18,7 @@ You will be presented with the Add New Project / Open Existing Project dialog, t
 
 You may drag a file or folder anywhere onto the PhoneGap-GUI's interface to trigger the Add New Project / Open Existing Project dialog. 
 
-![Create Project Button](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/create/docs-add-new.png)
+![Add New Project Dialog](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/create/docs-add-new.png)
 
 ## Using the File -> New Project Method
 
