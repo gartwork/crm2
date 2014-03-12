@@ -8,7 +8,7 @@ To create a new project you need to start by adding a new project by clicking on
 
 ![Add Project Button](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/create/docs-plus-button.png)
 
-You will be presented with the Add New Project / Open Existing Project dialog, the clicking on the right icon will allow you to open an existing project.
+You will be presented with the Add New Project / Open Existing Project dialog, by clicking on the icon to the right allows you to open an existing project.
 
 ![Open Project Button](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/open/docs-open-existing.png)
 
