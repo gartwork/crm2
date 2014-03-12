@@ -4,4 +4,4 @@
 
 ## Inactive Project
 
-![Project Listing](https://github.com/hermwong/phonegap-gui/blob/master/docs-assets/active/docs-active-project.png)
+![Project Listing](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/active/docs-active-project.png)
