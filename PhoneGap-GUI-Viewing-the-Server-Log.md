@@ -1,7 +1,5 @@
 # Viewing the Local Server Logs
 
-## Overview
-
 ## How to View the Local Server Logs
 
 To view the server log, you will need to have at least one project loaded into the PhoneGap GUI. The PhoneGap GUI will automatically start the local server for the active project.
