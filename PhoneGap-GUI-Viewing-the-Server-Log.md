@@ -8,7 +8,7 @@ When the local server is online the PhoneGap GUI will display a green icon with 
 
 ![Server Online](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/server/docs-server-status-online.png)
 
-The server log button on the right side of the PhoneGap GUI's footer, will only become enabled if there the local server is online.
+The server log button is located on the side menu.
 
 ![Server Log Button](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/server/docs-server-log-button.png)
 
