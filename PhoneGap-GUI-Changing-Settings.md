@@ -6,7 +6,7 @@ How to use the settings dialog to change user configurable settings in the Phone
 
 ## Using the Settings Dialog
 
-To update settings in the PhoneGap GUI click on the "gear" icon in the footer.
+To update settings in the PhoneGap GUI click on the "gear" icon in the side menu.
 
 ![Settings Button](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/settings/docs-settings-button.png)
 
