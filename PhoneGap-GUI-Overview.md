@@ -6,7 +6,7 @@
 
 [Removing a project with the PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-GUI-Removing-a-Project)
 
-[Updating settings in the PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-GUI-Changing-Settings)
+[Updating settings in the PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-Developer-Desktop-App-Changing-Settings)
 
 [Viewing the server log in PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-Developer-Desktop-App-Viewing-the-Server-Log)
 
