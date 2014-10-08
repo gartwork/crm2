@@ -10,6 +10,6 @@ To update settings in the PhoneGap Developer Desktop App click on the "gear" ico
 
 ![Settings Button](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/settings/docs-settings-button.png)
 
-Once the "gear" icon has been clicked the settings dialog which contains all of the PhoneGap GUI's configurable settings will be presented.
+Once the "gear" icon has been clicked the settings dialog which contains all of the PhoneGap Developer Desktop App's configurable settings will be presented.
 
 ![Settings Dialog](https://raw.github.com/hermwong/phonegap-gui/master/docs-assets/settings/docs-settings-dialog.png)
