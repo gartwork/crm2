@@ -8,7 +8,7 @@
 
 [Updating settings in the PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-GUI-Changing-Settings)
 
-[Viewing the server log in PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-GUI-Viewing-the-Server-Log)
+[Viewing the server log in PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-Developer-Desktop-App-Viewing-the-Server-Log)
 
 [Differences between the active project & inactive projects](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-Developer-Desktop-App-Active-&-Inactive-Projects)
 
