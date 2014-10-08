@@ -2,7 +2,7 @@
 
 [Adding or creating a project with the PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-GUI-Creating-a-Project)
 
-[Opening an existing project with the PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-GUI-Opening-an-Existing-Project)
+[Opening an existing project with the PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-Developer-Desktop-App-Opening-an-Existing-Project)
 
 [Removing a project with the PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-Developer-Desktop-App-Removing-a-Project)
 
