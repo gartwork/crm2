@@ -10,6 +10,6 @@
 
 [Viewing the server log in PhoneGap Developer Desktop App](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-GUI-Viewing-the-Server-Log)
 
-[Differences between the active project & inactive projects](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-GUI-Active-&-Inactive-Projects)
+[Differences between the active project & inactive projects](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-Developer-Desktop-App-Active-&-Inactive-Projects)
 
 [PhoneGap Developer Desktop App FAQs](https://github.com/hermwong/phonegap-gui/wiki/PhoneGap-FAQ)
