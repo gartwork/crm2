@@ -10,9 +10,9 @@ _On Mac OSX follow these [instructions](https://github.com/hermwong/phonegap-gui
 
 Does the PhoneGap Developer Desktop App work on Windows?
 
-_Not quite; there is a known [issue](https://github.com/hermwong/phonegap-gui/issues/201) that we're currently working on.
+_Not quite; there is a known [issue](https://github.com/hermwong/phonegap-gui/issues/201) that we're currently working on._
 
-You can still run the `PhoneGap.exe` and get a preview of the interface, if you're having problems running the PhoneGap Developer Desktop App on Windows try these [steps](https://github.com/hermwong/phonegap-gui/issues/203#issuecomment-60002264)._
+_However, you can still run the `PhoneGap.exe` and get a preview of the interface, if you're having problems running the PhoneGap Developer Desktop App on Windows try these [steps](https://github.com/hermwong/phonegap-gui/issues/203#issuecomment-60002264)._
 
 ## PhoneGap Developer Desktop App & PhoneGap Developer Mobile App
 
