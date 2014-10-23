@@ -1,1 +1,1 @@
-Welcome to the phonegap-gui wiki!
+Welcome to the PhoneGap Desktop App wiki!
