@@ -1,4 +1,4 @@
-# Modifying Project Settings
+# Changing Project Settings
 
 ## Overview
 
