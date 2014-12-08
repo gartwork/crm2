@@ -17,3 +17,7 @@ You will be presented with the Create new PhoneGap project or Add existing Phone
 You may drag a file or folder anywhere onto the PhoneGap Desktop's interface to trigger the Create new PhoneGap project or Add existing PhoneGap project options. 
 
 ![Add New Project Dialog](https://raw.github.com/phonegap/phonegap-app-desktop/master/docs-assets/open/docs-open-existing.png)
+
+## Adding an existing project
+
+Once you have selected the folder that contains a valid existing project, it will be added to the PhoneGap Desktop's interface.
