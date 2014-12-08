@@ -1,19 +1,19 @@
 # Frequently Asked Questions
 
-## Building / Compiling the PhoneGap GUI
+## Building / Compiling the PhoneGap Desktop
 
-How do I fix the "too many files open" error or "Fatal error: EMFile, open" error using the `Grunt` task to build / compile the PhoneGap GUI?
+How do I fix the "too many files open" error or "Fatal error: EMFile, open" error using the `Grunt` task to build / compile the PhoneGap Desktop?
 
-_On Mac OSX follow these [instructions](https://github.com/hermwong/phonegap-gui/issues/168)._
+_On Mac OSX follow these [instructions](https://github.com/phonegap/phonegap-app-desktop/issues/168)._
 
 ## Operating System Compatibility
 
-Does the PhoneGap Developer Desktop App work on Windows?
+Does the PhoneGap Desktop work on Windows?
 
-_If you're having problems running the PhoneGap Developer Desktop App on Windows try these [steps](https://github.com/hermwong/phonegap-gui/issues/203#issuecomment-60002264)._
+_If you're having problems running the PhoneGap Desktop App on Windows try these [steps](https://github.com/phonegap/phonegap-app-desktop/issues/203#issuecomment-60002264)._
 
-## PhoneGap Developer Desktop App & PhoneGap Developer Mobile App
+## PhoneGap Desktop App & PhoneGap Developer App
 
-How come the PhoneGap Developer Mobile App won't connect to the local server started by the PhoneGap Developer Desktop App?
+How come the PhoneGap Developer App won't connect to the local server started by the PhoneGap Desktop App?
 
-_Your network may have the PhoneGap Developer Desktop App's server port blocked; [this could be the result of network security settings, firewall, VPN or being on a corporate network](https://github.com/hermwong/phonegap-gui/issues/162)._
+_Your network may have the PhoneGap Desktop App's server port blocked; [this could be the result of network security settings, firewall, VPN or being on a corporate network](https://github.com/phonegap/phonegap-app-desktop/issues/162)._
