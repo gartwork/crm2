@@ -6,7 +6,7 @@
 
 [Removing a project with the PhoneGap Desktop](https://github.com/phonegap/phonegap-app-desktop/wiki/PhoneGap-Desktop-Removing-a-Project)
 
-[Updating settings in the PhoneGap Desktop](https://github.com/phonegap/phonegap-app-desktop/wiki/PhoneGap-Desktop-Changing-Settings)
+[Changing settings in the PhoneGap Desktop](https://github.com/phonegap/phonegap-app-desktop/wiki/PhoneGap-Desktop-Changing-Settings)
 
 [Viewing the server log in PhoneGap Desktop](https://github.com/phonegap/phonegap-app-desktop/wiki/PhoneGap-Desktop-Viewing-the-Server-Log)
 
