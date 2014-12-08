@@ -25,5 +25,6 @@ You may drag a file or folder anywhere onto the PhoneGap Desktop's interface to 
 1. Choose a folder where you project will be created in the `Local Path` section.
 1. Enter a project name in the `Name` section.
 1. You can optionally enter a project ID in the `ID` section, if you choose not to enter a project ID your project will be given a default ID of `com.phonegap.helloworld`.
+1. Click on the `Create project` button.
 
 ![Create New Project Dialog](https://raw.github.com/phonegap/phonegap-app-desktop/master/docs-assets/create/docs-create-dialog.png)
