@@ -12,4 +12,4 @@
 
 [Differences between the active project & inactive projects](https://github.com/phonegap/phonegap-app-desktop/wiki/PhoneGap-Desktop-Active-&-Inactive-Projects)
 
-[PhoneGap Desktop FAQs](https://github.com/phonegap/phonegap-app-desktop/wiki/PhoneGap-FAQ)
+[PhoneGap Desktop FAQs](https://github.com/phonegap/phonegap-app-desktop/wiki/PhoneGap-Desktop-FAQ)
