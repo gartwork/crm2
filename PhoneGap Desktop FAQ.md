@@ -4,7 +4,7 @@
 
 How do I fix the "too many files open" error or "Fatal error: EMFile, open" error using the `Grunt` task to build / compile the PhoneGap Desktop?
 
-_On Mac OSX follow these [instructions](https://github.com/phonegap/phonegap-app-desktop/issues/168)._
+_On Mac OSX follow these [instructions](https://github.com/phonegap/phonegap-app-desktop/issues/168#issuecomment-53630951)._
 
 ## Operating System Compatibility
 
