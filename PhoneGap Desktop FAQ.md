@@ -10,7 +10,7 @@ _On Mac OSX follow these [instructions](https://github.com/phonegap/phonegap-app
 
 Does the PhoneGap Desktop work on Windows?
 
-_If you're having problems running the PhoneGap Desktop App on Windows try these [steps](https://github.com/phonegap/phonegap-app-desktop/issues/203#issuecomment-60002264)._
+_If you're having problems running the PhoneGap Desktop App on Windows try these [steps](https://github.com/phonegap/phonegap-app-desktop/issues/203#issuecomment-60002264)_or try using this [workaround](https://github.com/phonegap/phonegap-app-desktop/issues/258#issuecomment-67997880)_.
 
 ## PhoneGap Desktop App & PhoneGap Developer App
 
