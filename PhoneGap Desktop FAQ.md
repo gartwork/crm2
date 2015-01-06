@@ -16,4 +16,6 @@ _If you're having problems running the PhoneGap Desktop App on Windows try these
 
 How come the PhoneGap Developer App won't connect to the local server started by the PhoneGap Desktop App?
 
+_The computer with PhoneGap Desktop App and the mobile device with PhoneGap Developer App must be on the same network._
+
 _Your network may have the PhoneGap Desktop App's server port blocked; [this could be the result of network security settings, firewall, VPN or being on a corporate network](https://github.com/phonegap/phonegap-app-desktop/issues/162)._
