@@ -1,3 +1,7 @@
+# TODOS
+
+1. add test cases around the form validation in the create new project workflow
+
 # Pre-conditions
 
 1. not on corporate network
