@@ -1,9 +1,9 @@
 ### Pre-conditions
 
-- not on corporate network
-- no AV
-- firewall disabled
-- disk encryption disabled
+1. not on corporate network
+1. no AV
+1. disk encryption disabled
+1. firewall disabled
 
 1. create a new project: new project is created & it becomes the active served project
 1. add (import) existing project: added project is appended to the project list area & it becomes the active served project
