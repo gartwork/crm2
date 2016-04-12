@@ -1,3 +1,10 @@
+### Pre-conditions
+
+- not on corporate network
+- no AV
+- firewall disabled
+- disk encryption disabled
+
 1. create a new project: new project is created & it becomes the active served project
 1. add (import) existing project: added project is appended to the project list area & it becomes the active served project
 1. edit `index.html` of the active project, modify `<p class="event received">Device is Ready</p>` to `<p class="event received">Device is Ready. TestXX</p>` - PhoneGap Dev App / Browser should update to display the updated content
