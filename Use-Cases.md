@@ -6,7 +6,7 @@
 1. disk encryption disabled
 1. firewall disabled
 
-# Test Cases
+# Test Cases (perform on OSX & Windows)
 
 ## Test Case 1
 
