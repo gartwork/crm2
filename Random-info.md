@@ -21,3 +21,7 @@ On Mac:
 On Windows:
 
 `C:\Users\<username>\.cordova`
+
+# How to fix issues with disk encryption
+
+See https://github.com/phonegap/phonegap-app-desktop/issues/589#issuecomment-208577909.
