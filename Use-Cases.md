@@ -1,6 +1,7 @@
 ### Pre-conditions
 
 1. not on corporate network
+1. not on VPN
 1. no AV
 1. disk encryption disabled
 1. firewall disabled
