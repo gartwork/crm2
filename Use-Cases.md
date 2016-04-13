@@ -46,45 +46,57 @@
 
 **Action**: edit `index.html` of the active project, modify `<p class="event received">Device is Ready</p>` to `<p class="event received">Device is Ready. TestXX</p>`
 
-**Expected Result**: Browser should update to display the udpated content
+**Expected Result**: Browser should update to display the updated content
 
 ## Test Case 7
+
+**Action**: edit `index.css` of the active project, modify `.app { left: 50% }` to `.app { left: 10% }`
+
+**Expected Result**: PhoneGap Dev App should update to display the updated content
+
+## Test Case 8
+
+**Action**: edit `index.css` of the active project, modify `.app { left: 50% }` to `.app { left: 10% }
+
+**Expected Result**: Browser should update to display the updated content
+
+## Test Case 9
 
 **Action**: edit `config.xml` of the active project, modify `<name>test08ab</name>` node or modify `<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.helloworld" version="1.0.1">` version attribute of the `<widget>` node 
 
 **Expected Result**: PhoneGap Desktop App's project listing should update with the updated content
 
-## Test Case 8
+## Test Case 10
 
 **Action**: change active project in the PhoneGap Desktop (by clicking play on another project or by click stop on the current active project & then clicking play on a different project)
 
 **Expected Result**: PhoneGap Dev App should update to the contents of the new active project
 
-## Test Case 9
+## Test Case 11
 
 **Action**: change active project in the PhoneGap Desktop (by clicking play on another project or by click stop on the current active project & then clicking play on a different project)
 
 **Expected Result**: Browser should update to the contents of the new active project
 
-## Test Case 10
+## Test Case 12
 
 **Action**: change port number in the settings
 
 **Expected Result**: reload the PhoneGap Dev App with the new port make sure the active project is displayed
 
-## Test Case 11
+## Test Case 13
 
 **Action**: change port number in the settings
 
 **Expected Result**: reload the Browser with the new port make sure the active project is displayed
 
-## Test Case 12
+## Test Case 14
 
 **Action**: if multiple IP addresses are listed, click on at least one
 
 **Expected Result**: the Browser should launch displaying the contents of the active project
 
-## Test Case 13
+## Test Case 15
 
 **Action**: remove a project from PhoneGap Desktop
 
