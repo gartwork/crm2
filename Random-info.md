@@ -25,3 +25,13 @@ On Windows:
 # How to fix issues with disk encryption
 
 See https://github.com/phonegap/phonegap-app-desktop/issues/589#issuecomment-208577909.
+
+# Default Install Folder
+
+On OSX:
+
+`/Applications/PhoneGap`
+
+On Windows:
+
+`C:\Program Files (x86)\Adobe\PhoneGap\PhoneGap Desktop`
