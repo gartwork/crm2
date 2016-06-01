@@ -35,3 +35,8 @@ On OSX:
 On Windows:
 
 `C:\Program Files (x86)\Adobe\PhoneGap\PhoneGap Desktop`
+
+# PhoneGap.app is damaged and cannot be opened
+
+1. allow from apps from anywhere under security prefs
+1. right-click and open
